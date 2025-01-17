@@ -1,5 +1,5 @@
 <?php
-function hello() {
+function hello(): void {
     echo "Hello La Plateforme !";
 }
 
